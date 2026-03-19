@@ -1,0 +1,1277 @@
+{
+  "meta": {
+    "generated_at": "2026-03-18T17:36:53.633260+00:00",
+    "bot_version": "3.0.0",
+    "pipeline": "Scrape Trends → Save JSON → Gemini AI → Jokes & Scenarios"
+  },
+  "google_trends_us": [
+    {
+      "rank": 1,
+      "term": "fc barcelona",
+      "traffic": "20000+",
+      "related_news": "¿Cómo ver el partido FC Barcelona vs Newcastle en TV y streaming?",
+      "news_url": "https://www.si.com/es-us/futbol/como-ver-el-partido-fc-barcelona-vs-newcastle-en-tv-y-streaming-18-3-2026",
+      "region": "US"
+    },
+    {
+      "rank": 2,
+      "term": "alex pretti",
+      "traffic": "200+",
+      "related_news": "Mullin faces DHS confirmation hearing amid shutdown, TSA staffing problems",
+      "news_url": "https://www.foxnews.com/live-news/markwayne-mullin-dhs-confirmation-hearing-shutdown-tsa-staffing-travel",
+      "region": "US"
+    },
+    {
+      "rank": 3,
+      "term": "barcelone – newcastle",
+      "traffic": "1000+",
+      "related_news": "DIRECT. FC Barcelone-Newcastle (Ligue des champions 2025-2026) à suivre en direct",
+      "news_url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2025-2026/fc-barcelone-newcastle-live/688889",
+      "region": "US"
+    },
+    {
+      "rank": 4,
+      "term": "barcelona - newcastle",
+      "traffic": "200000+",
+      "related_news": "Eddie Howe says Newcastle will not ‘shrink’ in Barcelona last-16 second leg",
+      "news_url": "https://www.theguardian.com/football/2026/mar/17/eddie-howe-newcastle-barcelona-second-leg-last-16",
+      "region": "US"
+    },
+    {
+      "rank": 5,
+      "term": "saudi arabia eid moon sighting",
+      "traffic": "10000+",
+      "related_news": "Is Eid tomorrow? Here's when Muslim holiday begins",
+      "news_url": "https://www.freep.com/story/news/local/michigan/2026/03/18/ramadan-end-eid-holiday-islam-muslim-celebration/89210878007/",
+      "region": "US"
+    },
+    {
+      "rank": 6,
+      "term": "twitter outage",
+      "traffic": "20000+",
+      "related_news": "X down for thousands of users in the US, Downdetector shows",
+      "news_url": "https://www.yahoo.com/news/articles/x-down-thousands-users-us-152401050.html",
+      "region": "US"
+    },
+    {
+      "rank": 7,
+      "term": "aurora forecast",
+      "traffic": "1000+",
+      "related_news": "Aurora alert! Powerful geomagnetic storm could spark northern lights as far south as Illinois tonight",
+      "news_url": "https://www.space.com/stargazing/auroras/aurora-alert-powerful-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-illinois-on-march-19",
+      "region": "US"
+    },
+    {
+      "rank": 8,
+      "term": "undertale symphony",
+      "traffic": "200+",
+      "related_news": "‘Undertale’ confirms 2026 orchestral world soundtrack tour",
+      "news_url": "https://www.nme.com/news/gaming-news/undertale-confirms-2026-orchestral-world-soundtrack-tour-3935070",
+      "region": "US"
+    },
+    {
+      "rank": 9,
+      "term": "sidney crosby",
+      "traffic": "500+",
+      "related_news": "Sidney Crosby to play vs. Canes, first game since Milan injury",
+      "news_url": "https://www.espn.com/nhl/story/_/id/48240911/sidney-crosby-play-vs-canes-first-game-milan-injury",
+      "region": "US"
+    },
+    {
+      "rank": 10,
+      "term": "maxwell jenkins",
+      "traffic": "500+",
+      "related_news": "Netflix Has Officially Found Its Cobra Kai Replacement",
+      "news_url": "https://screenrant.com/netflix-scooby-doo-series-paul-walter-hauser-cobra-kai-replacement/",
+      "region": "US"
+    }
+  ],
+  "google_trends_worldwide": [
+    {
+      "rank": 1,
+      "term": "sloop",
+      "traffic": "200+",
+      "related_news": "Afgelopen week 11 meldingen van de gemeente over bouw en sloop in West Betuwe",
+      "news_url": "https://www.gelderlander.nl/west-betuwe/afgelopen-week-11-meldingen-van-de-gemeente-over-bouw-en-sloop-in-west-betuwe~a33a0650/",
+      "region": "Worldwide"
+    },
+    {
+      "rank": 2,
+      "term": "zuffa boxing",
+      "traffic": "200+",
+      "related_news": "Sky Sports and Zuffa Boxing sign landmark multi-year broadcast deal including action-packed cards on UK soil",
+      "news_url": "https://www.skysports.com/boxing/news/12183/13520991/sky-sports-and-zuffa-boxing-sign-landmark-multi-year-broadcast-deal-including-action-packed-cards-on-uk-soil",
+      "region": "Worldwide"
+    },
+    {
+      "rank": 3,
+      "term": "برشلونة ضد نيوكاسل يونايتد",
+      "traffic": "200+",
+      "related_news": "الحلم سبورت : صورة: رسالة حماسية ومن لامين يامال قبل مواجهة نيوكاسل",
+      "news_url": "https://al7lmnews.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9/%D8%A7%D9%84%D8%AD%D9%84%D9%85-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D8%B5%D9%88%D8%B1%D8%A9-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%AD%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D9%85%D9%86-%D9%84%D8%A7%D9%85/",
+      "region": "Worldwide"
+    },
+    {
+      "rank": 4,
+      "term": "weymouth",
+      "traffic": "200+",
+      "related_news": "TV star purchases seafront hotel for more than £500k",
+      "news_url": "https://www.dorsetecho.co.uk/news/25941588.tv-star-former-hollyoaks-actor-buys-weymouth-b-b/",
+      "region": "Worldwide"
+    },
+    {
+      "rank": 5,
+      "term": "eyüpspor vs trabzonspor",
+      "traffic": "200+",
+      "related_news": "",
+      "news_url": "",
+      "region": "Worldwide"
+    },
+    {
+      "rank": 6,
+      "term": "fc barcelona – newcastle",
+      "traffic": "1000+",
+      "related_news": "Rashford se frota las manos: Newcastle en la diana",
+      "news_url": "https://www.sport.es/es/noticias/barca/rashford-frota-manos-newcastle-diana-128119814",
+      "region": "Worldwide"
+    },
+    {
+      "rank": 7,
+      "term": "riyadh",
+      "traffic": "200+",
+      "related_news": "Multiple explosions rock Riyadh after Iran threatens to strike Gulf energy facilities",
+      "news_url": "https://www.turkiyetoday.com/region/multiple-explosions-rock-riyadh-after-iran-threatens-to-strike-gulf-energy-facilities-3216487",
+      "region": "Worldwide"
+    },
+    {
+      "rank": 8,
+      "term": "emma willis",
+      "traffic": "200+",
+      "related_news": "'She's one of the coolest people I've ever met' — Emma Willis's glam squad share her hair and beauty secrets as she celebrates her 50th birthday",
+      "news_url": "https://www.hellomagazine.com/second-act/890036/emma-willis-50th-birthday-hair-skin-beauty-secrets/",
+      "region": "Worldwide"
+    },
+    {
+      "rank": 9,
+      "term": "tube strikes",
+      "traffic": "20000+",
+      "related_news": "Tube strikes in March called off as RMT negotiates",
+      "news_url": "https://www.bbc.co.uk/news/articles/c77e7k1x5x4o",
+      "region": "Worldwide"
+    },
+    {
+      "rank": 10,
+      "term": "nigel farage",
+      "traffic": "500+",
+      "related_news": "Newly unearthed Nigel Farage videos reveal support for rioter, neo-Nazi event and far-right slogans",
+      "news_url": "https://www.theguardian.com/uk-news/ng-interactive/2026/mar/17/nigel-farage-videos-support-rioter-neonazi-event-far-right-slogans",
+      "region": "Worldwide"
+    }
+  ],
+  "youtube_trending": {
+    "source": "youtube.com/feed/trending",
+    "method": "failed",
+    "video_count": 0,
+    "videos": [],
+    "note": "YouTube trending page could not be scraped (JS-heavy rendering)"
+  },
+  "tiktok_trends": {
+    "source_mode": "simulation",
+    "note": "Simulated data based on current internet culture (TikTok blocks automated scraping)",
+    "trending_hashtags": [
+      {
+        "hashtag": "#fypシ",
+        "category": "General / For You",
+        "rank": 1,
+        "source": "simulation"
+      },
+      {
+        "hashtag": "#aura",
+        "category": "Meme / Internet Culture",
+        "rank": 2,
+        "source": "simulation"
+      },
+      {
+        "hashtag": "#mewing",
+        "category": "Meme / Looksmax",
+        "rank": 3,
+        "source": "simulation"
+      },
+      {
+        "hashtag": "#rizz",
+        "category": "Meme / Internet Culture",
+        "rank": 4,
+        "source": "simulation"
+      },
+      {
+        "hashtag": "#grwm",
+        "category": "Lifestyle / Get Ready With Me",
+        "rank": 5,
+        "source": "simulation"
+      },
+      {
+        "hashtag": "#sigma",
+        "category": "Meme / Brainrot",
+        "rank": 6,
+        "source": "simulation"
+      },
+      {
+        "hashtag": "#fyp",
+        "category": "General / For You",
+        "rank": 7,
+        "source": "simulation"
+      },
+      {
+        "hashtag": "#skibidi",
+        "category": "Meme / Brainrot",
+        "rank": 8,
+        "source": "simulation"
+      },
+      {
+        "hashtag": "#phonk",
+        "category": "Music / Phonk",
+        "rank": 9,
+        "source": "simulation"
+      },
+      {
+        "hashtag": "#viral",
+        "category": "General / Growth",
+        "rank": 10,
+        "source": "simulation"
+      }
+    ],
+    "viral_sounds": [
+      {
+        "name": "Sigma Boy Sigma Girl",
+        "artist": "Betsy (TikTok Remix)",
+        "category": "Meme / Brainrot",
+        "estimated_videos": "6.1M",
+        "rank": 1,
+        "source": "simulation"
+      },
+      {
+        "name": "Skibidi Bop Yes Yes Yes",
+        "artist": "Biser King (Remix)",
+        "category": "Meme / Brainrot",
+        "estimated_videos": "8.4M",
+        "rank": 2,
+        "source": "simulation"
+      },
+      {
+        "name": "Birds of a Feather",
+        "artist": "Billie Eilish",
+        "category": "Pop / Emotional Trend",
+        "estimated_videos": "3.3M",
+        "rank": 3,
+        "source": "simulation"
+      },
+      {
+        "name": "Nasty",
+        "artist": "Tinashe",
+        "category": "Pop / Dance Trend",
+        "estimated_videos": "3.8M",
+        "rank": 4,
+        "source": "simulation"
+      },
+      {
+        "name": "Lub Dub x Lacrimosa",
+        "artist": "Mashup (TikTok Original)",
+        "category": "Classical / Edit Audio",
+        "estimated_videos": "1.7M",
+        "rank": 5,
+        "source": "simulation"
+      }
+    ]
+  },
+  "instagram_trends": {
+    "source_mode": "curated",
+    "note": "Curated Instagram trend data (Instagram blocks automated scraping)",
+    "trending_hashtags": [
+      {
+        "hashtag": "#reels",
+        "category": "Content Format",
+        "rank": 1,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#explore",
+        "category": "Discovery",
+        "rank": 2,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#trending",
+        "category": "General",
+        "rank": 3,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#aesthetic",
+        "category": "Visual Culture",
+        "rank": 4,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#ootd",
+        "category": "Fashion",
+        "rank": 5,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#grwm",
+        "category": "Lifestyle",
+        "rank": 6,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#fyp",
+        "category": "Discovery",
+        "rank": 7,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#skincare",
+        "category": "Beauty",
+        "rank": 8,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#fitnessmotivation",
+        "category": "Health",
+        "rank": 9,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#foodie",
+        "category": "Food",
+        "rank": 10,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#travel",
+        "category": "Travel",
+        "rank": 11,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#memes",
+        "category": "Humor",
+        "rank": 12,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#brainrot",
+        "category": "Internet Culture",
+        "rank": 13,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#sigma",
+        "category": "Meme Culture",
+        "rank": 14,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#edit",
+        "category": "Creative",
+        "rank": 15,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#viral",
+        "category": "Growth",
+        "rank": 16,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#photography",
+        "category": "Art",
+        "rank": 17,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#motivation",
+        "category": "Inspiration",
+        "rank": 18,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#anime",
+        "category": "Entertainment",
+        "rank": 19,
+        "source": "curated"
+      },
+      {
+        "hashtag": "#gaming",
+        "category": "Gaming",
+        "rank": 20,
+        "source": "curated"
+      }
+    ],
+    "reel_trends": [
+      {
+        "trend": "Get Ready With Me",
+        "description": "Showing morning/evening routines and outfit selections",
+        "status": "Evergreen"
+      },
+      {
+        "trend": "Day in My Life",
+        "description": "Vlog-style Reels showing daily activities",
+        "status": "Evergreen"
+      },
+      {
+        "trend": "Before & After Edits",
+        "description": "Dramatic photo/video editing transformations",
+        "status": "Trending"
+      },
+      {
+        "trend": "POV Storytelling",
+        "description": "First-person perspective mini-skits",
+        "status": "Trending"
+      },
+      {
+        "trend": "Sigma Edits",
+        "description": "Edgy motivational edits with phonk music",
+        "status": "Hot"
+      },
+      {
+        "trend": "Aesthetic Mood Boards",
+        "description": "Curated aesthetic visual compilations",
+        "status": "Evergreen"
+      },
+      {
+        "trend": "Text-Over-Video Rants",
+        "description": "Hot takes and opinions with text overlays",
+        "status": "Hot"
+      },
+      {
+        "trend": "Silent Review / ASMR",
+        "description": "Product/food reviews with satisfying sounds",
+        "status": "Trending"
+      }
+    ]
+  },
+  "reddit_trends": {
+    "subreddits_analyzed": [
+      "r/memes",
+      "r/dankmemes",
+      "r/me_irl",
+      "r/shitposting",
+      "r/discordapp",
+      "r/skibiditoilet",
+      "r/tiktokcringe",
+      "r/internetculture",
+      "r/trendingsubreddits"
+    ],
+    "per_subreddit": {
+      "r/memes": {
+        "posts_analyzed": 50,
+        "top_keywords": [
+          {
+            "keyword": "always",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "nvidia",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "last",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "sorry",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "open",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "friendly",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "reminder",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "sweetest",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "vindication",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "apple",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "keeps",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "doctor",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "away",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "mon",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "justice",
+            "raw_count": 1,
+            "boosted_score": 1
+          }
+        ]
+      },
+      "r/dankmemes": {
+        "posts_analyzed": 50,
+        "top_keywords": [
+          {
+            "keyword": "love",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "played",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "slop",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "chad",
+            "raw_count": 1,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "idea",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "nvidia",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "law",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "000",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "sure",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "ask",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "stop",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "long",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "last",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "haven",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "meme",
+            "raw_count": 2,
+            "boosted_score": 2
+          }
+        ]
+      },
+      "r/me_irl": {
+        "posts_analyzed": 50,
+        "top_keywords": [
+          {
+            "keyword": "irl",
+            "raw_count": 49,
+            "boosted_score": 49
+          },
+          {
+            "keyword": "reminder",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "politics",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "against",
+            "raw_count": 1,
+            "boosted_score": 1
+          }
+        ]
+      },
+      "r/shitposting": {
+        "posts_analyzed": 50,
+        "top_keywords": [
+          {
+            "keyword": "aura",
+            "raw_count": 2,
+            "boosted_score": 6
+          },
+          {
+            "keyword": "boy",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "girl",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "hate",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "finally",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "care",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "believe",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "nooooooo",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "statement",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "cheat",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "codes",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "femboys",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "ain",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "valid",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "neurospicy",
+            "raw_count": 1,
+            "boosted_score": 1
+          }
+        ]
+      },
+      "r/discordapp": {
+        "posts_analyzed": 50,
+        "top_keywords": [
+          {
+            "keyword": "discord",
+            "raw_count": 11,
+            "boosted_score": 11
+          },
+          {
+            "keyword": "app",
+            "raw_count": 6,
+            "boosted_score": 6
+          },
+          {
+            "keyword": "notifications",
+            "raw_count": 5,
+            "boosted_score": 5
+          },
+          {
+            "keyword": "call",
+            "raw_count": 5,
+            "boosted_score": 5
+          },
+          {
+            "keyword": "bug",
+            "raw_count": 4,
+            "boosted_score": 4
+          },
+          {
+            "keyword": "audio",
+            "raw_count": 4,
+            "boosted_score": 4
+          },
+          {
+            "keyword": "server",
+            "raw_count": 4,
+            "boosted_score": 4
+          },
+          {
+            "keyword": "bot",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "based",
+            "raw_count": 1,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "working",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "update",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "else",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "microphone",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "fix",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "using",
+            "raw_count": 2,
+            "boosted_score": 2
+          }
+        ]
+      },
+      "r/skibiditoilet": {
+        "posts_analyzed": 50,
+        "top_keywords": [
+          {
+            "keyword": "skibidi",
+            "raw_count": 7,
+            "boosted_score": 21
+          },
+          {
+            "keyword": "toilet",
+            "raw_count": 8,
+            "boosted_score": 8
+          },
+          {
+            "keyword": "made",
+            "raw_count": 5,
+            "boosted_score": 5
+          },
+          {
+            "keyword": "boom",
+            "raw_count": 4,
+            "boosted_score": 4
+          },
+          {
+            "keyword": "inviz",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "astro",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "adam",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "goodman",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "l",
+            "raw_count": 1,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "alright",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "far",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "lost",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "woman",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "news",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "read",
+            "raw_count": 2,
+            "boosted_score": 2
+          }
+        ]
+      },
+      "r/tiktokcringe": {
+        "posts_analyzed": 50,
+        "top_keywords": [
+          {
+            "keyword": "funniest",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "watch",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "collection",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "cringe",
+            "raw_count": 1,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "never",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "part",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "obsessed",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "genuinely",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "sauce",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "dog",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "looking",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "moderators",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "click",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "sort",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "flair",
+            "raw_count": 1,
+            "boosted_score": 1
+          }
+        ]
+      },
+      "r/internetculture": {
+        "posts_analyzed": 50,
+        "top_keywords": [
+          {
+            "keyword": "internet",
+            "raw_count": 12,
+            "boosted_score": 12
+          },
+          {
+            "keyword": "culture",
+            "raw_count": 6,
+            "boosted_score": 6
+          },
+          {
+            "keyword": "meme",
+            "raw_count": 4,
+            "boosted_score": 4
+          },
+          {
+            "keyword": "happened",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "community",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "years",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "old",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "term",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "verified",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "words",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "true",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "racism",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "cancel",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "necessary",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "social",
+            "raw_count": 2,
+            "boosted_score": 2
+          }
+        ]
+      },
+      "r/trendingsubreddits": {
+        "posts_analyzed": 50,
+        "top_keywords": [
+          {
+            "keyword": "trending",
+            "raw_count": 50,
+            "boosted_score": 50
+          },
+          {
+            "keyword": "subreddits",
+            "raw_count": 50,
+            "boosted_score": 50
+          },
+          {
+            "keyword": "2021",
+            "raw_count": 50,
+            "boosted_score": 50
+          },
+          {
+            "keyword": "zoomies",
+            "raw_count": 3,
+            "boosted_score": 3
+          },
+          {
+            "keyword": "steelydan",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "thecure",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "notinteresting",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "animalsbeinggeniuses",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "dogs",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "cozyplaces",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "contagiouslaughter",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "joshfight",
+            "raw_count": 2,
+            "boosted_score": 2
+          },
+          {
+            "keyword": "place",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "thanosdidnothingwrong",
+            "raw_count": 1,
+            "boosted_score": 1
+          },
+          {
+            "keyword": "thebutton",
+            "raw_count": 1,
+            "boosted_score": 1
+          }
+        ]
+      }
+    },
+    "combined_top_keywords": [
+      {
+        "keyword": "trending",
+        "raw_count": 50,
+        "boosted_score": 50
+      },
+      {
+        "keyword": "subreddits",
+        "raw_count": 50,
+        "boosted_score": 50
+      },
+      {
+        "keyword": "2021",
+        "raw_count": 50,
+        "boosted_score": 50
+      },
+      {
+        "keyword": "irl",
+        "raw_count": 49,
+        "boosted_score": 49
+      },
+      {
+        "keyword": "skibidi",
+        "raw_count": 7,
+        "boosted_score": 21
+      },
+      {
+        "keyword": "internet",
+        "raw_count": 12,
+        "boosted_score": 12
+      },
+      {
+        "keyword": "discord",
+        "raw_count": 11,
+        "boosted_score": 11
+      },
+      {
+        "keyword": "toilet",
+        "raw_count": 8,
+        "boosted_score": 8
+      },
+      {
+        "keyword": "meme",
+        "raw_count": 7,
+        "boosted_score": 7
+      },
+      {
+        "keyword": "nvidia",
+        "raw_count": 6,
+        "boosted_score": 6
+      },
+      {
+        "keyword": "love",
+        "raw_count": 6,
+        "boosted_score": 6
+      },
+      {
+        "keyword": "aura",
+        "raw_count": 2,
+        "boosted_score": 6
+      },
+      {
+        "keyword": "app",
+        "raw_count": 6,
+        "boosted_score": 6
+      },
+      {
+        "keyword": "call",
+        "raw_count": 6,
+        "boosted_score": 6
+      },
+      {
+        "keyword": "made",
+        "raw_count": 6,
+        "boosted_score": 6
+      },
+      {
+        "keyword": "culture",
+        "raw_count": 6,
+        "boosted_score": 6
+      },
+      {
+        "keyword": "community",
+        "raw_count": 5,
+        "boosted_score": 5
+      },
+      {
+        "keyword": "game",
+        "raw_count": 5,
+        "boosted_score": 5
+      },
+      {
+        "keyword": "notifications",
+        "raw_count": 5,
+        "boosted_score": 5
+      },
+      {
+        "keyword": "always",
+        "raw_count": 4,
+        "boosted_score": 4
+      }
+    ],
+    "detected_slang_terms": [
+      "skibidi",
+      "aura"
+    ]
+  },
+  "meme_dictionary": {
+    "aura": {
+      "definition": "An invisible energy or vibe someone gives off. Having 'aura' means you exude effortless coolness or confidence. 'Lost aura' = did something embarrassing.",
+      "source": "builtin_dictionary"
+    },
+    "skibidi": {
+      "definition": "Originates from 'Skibidi Toilet,' a YouTube animated series featuring heads in toilets. Now used as a general brainrot exclamation or adjective meaning chaotic, nonsensical, or absurd. Core element of 2024-2026 internet brainrot culture.",
+      "source": "builtin_dictionary"
+    },
+    "brainrot": {
+      "definition": "The state of being so consumed by internet culture and memes that your vocabulary and thought patterns are permanently altered. Also describes content that causes this state. Example: 'My brainrot is terminal — I just said skibidi out loud in class.'",
+      "source": "builtin_dictionary"
+    },
+    "rizz": {
+      "definition": "Short for 'charisma.' Refers to someone's ability to charm or flirt with others. 'W rizz' = good game, 'L rizz' = failed attempt. Can be used as a verb: 'rizzed up.'",
+      "source": "builtin_dictionary"
+    },
+    "mewing": {
+      "definition": "A jawline exercise involving pressing your tongue to the roof of your mouth. Became a meme where people dramatically pose while 'mewing' for the camera. Associated with looksmaxxing culture.",
+      "source": "builtin_dictionary"
+    },
+    "sigma": {
+      "definition": "A self-reliant, lone-wolf personality type. Originally from the 'sigma male grindset' meme. Now used both seriously and ironically to describe someone who doesn't follow social norms and walks their own path.",
+      "source": "builtin_dictionary"
+    }
+  },
+  "ai_generated_content": {
+    "error": "All models failed. Last error: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "_meta": {
+      "models_tried": [
+        "gemini-1.5-pro-latest",
+        "gemini-2.0-flash",
+        "gemini-1.5-flash-latest"
+      ],
+      "source": "gemini_api_error"
+    }
+  }
+}
